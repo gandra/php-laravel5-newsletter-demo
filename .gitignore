@@ -2,7 +2,7 @@
 /node_modules
 Homestead.yaml
 Homestead.json
-
+composer.lock
 
 # Created by https://www.gitignore.io/api/laravel,phpstorm
 
